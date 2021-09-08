@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Counter/Counter.scss"],"names":[],"mappings":"AAAA,iBACE,gBAAiB,CACjB,WAAY","file":"main.ef82565a.chunk.css","sourcesContent":[".container-fluid {\n  margin: 20px auto;\n  width: 300px;\n}\n"]}
